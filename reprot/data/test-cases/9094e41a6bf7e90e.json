@@ -1,0 +1,117 @@
+{
+  "uid": "9094e41a6bf7e90e",
+  "name": "test_baidu_004[user0]",
+  "fullName": "case.test_baidu_request.TestStudy#test_baidu_004",
+  "historyId": "1dc70aacf081f35a2a9ee6804f69fb95",
+  "time": {
+    "start": 1696409091346,
+    "stop": 1696409091347,
+    "duration": 1
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [
+    {
+      "name": "setup",
+      "time": {
+        "start": 1696409091346,
+        "stop": 1696409091346,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "setup::0",
+      "time": {
+        "start": 1696409091348,
+        "stop": 1696409091348,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "tag",
+      "value": "初学pytest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "case"
+    },
+    {
+      "name": "suite",
+      "value": "test_baidu_request"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStudy"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-RFDQ2TPM"
+    },
+    {
+      "name": "thread",
+      "value": "21496-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "case.test_baidu_request"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "user",
+      "value": "[1, 2, 3, 4]"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": [
+      "初学pytest"
+    ]
+  },
+  "source": "9094e41a6bf7e90e.json",
+  "parameterValues": [
+    "[1, 2, 3, 4]"
+  ]
+}

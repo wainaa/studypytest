@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 04 16:44:51 CST 2023","Wed Oct 04 16:44:51 CST 2023","275","case","test_baidu_request","TestStudy","","","test_baidu_002[params0]",""
+"passed","Wed Oct 04 16:44:51 CST 2023","Wed Oct 04 16:44:51 CST 2023","0","case","test_baidu_request","TestStudy","","","test_baidu_003[user0]",""
+"passed","Wed Oct 04 16:44:51 CST 2023","Wed Oct 04 16:44:51 CST 2023","1","case","test_baidu_request","TestStudy","","","test_baidu_004[user0]",""
+"passed","Wed Oct 04 16:44:50 CST 2023","Wed Oct 04 16:44:51 CST 2023","349","case","test_baidu_request","TestStudy","","","test_baidu_001[params0]",""
+"passed","Wed Oct 04 16:44:51 CST 2023","Wed Oct 04 16:44:51 CST 2023","0","case","test_baidu_request","TestStudy","","","test_baidu_003[user1]",""
+"passed","Wed Oct 04 16:44:51 CST 2023","Wed Oct 04 16:44:51 CST 2023","283","case","test_baidu_request","TestStudy","","","test_mobile[params0]",""

@@ -1,0 +1,52 @@
+#user: #{'user:{username:wkd,password:2...}}
+#  username: wkd
+#  password: 20011005
+
+#users: #{'users':[wkd,hcy,......]}
+#  - wkd
+#  - hcy
+#  - cys
+#  - yhs
+#  - zq
+#  - rf
+#
+#userss: #{'users':[[a,v,b]]}
+#  -
+#    - a
+#    - b
+#    - c
+
+baiduRequest:
+  - method: get
+    url: https://www.baidu.com
+
+guishudiRequest:
+  - method: post
+    url: https://dict.youdao.com/keyword/key
+    params:
+      title: foo
+      body: bar
+      userId: 12
+
+shoujiRequest:
+  - method: get
+    url: http://sellshop.5istudy.online/sell//shouji/query
+    params:
+      shouji: 15257898768
+      appkey: 1111
+
+userinfo:
+  - username: wkd
+    password: 20011005
+    expect: True
+  - username: hcy
+    password: 20011005
+    expect: False
+
+
+
+'123':
+  - - 1
+    - 2
+    - 3
+    - 4

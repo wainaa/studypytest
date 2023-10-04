@@ -1,0 +1,54 @@
+{
+  "name": "test_baidu_002[params0]",
+  "status": "passed",
+  "parameters": [
+    {
+      "name": "params",
+      "value": "{'method': 'post', 'url': 'https://dict.youdao.com/keyword/key', 'params': {'title': 'foo', 'body': 'bar', 'userId': 12}}"
+    }
+  ],
+  "start": 1696409091060,
+  "stop": 1696409091335,
+  "uuid": "bd4efd5e-8827-454c-ba09-14beb20d7638",
+  "historyId": "3a950cc1e13d8de3e46b684641270b2d",
+  "testCaseId": "5e6bb27b1d88ff0644da40cd6d8098e1",
+  "fullName": "case.test_baidu_request.TestStudy#test_baidu_002",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "初学pytest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "case"
+    },
+    {
+      "name": "suite",
+      "value": "test_baidu_request"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStudy"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-RFDQ2TPM"
+    },
+    {
+      "name": "thread",
+      "value": "21496-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "case.test_baidu_request"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "uid": "9d3e5e83cf876253",
+  "name": "test_baidu_002[params0]",
+  "fullName": "case.test_baidu_request.TestStudy#test_baidu_002",
+  "historyId": "3a950cc1e13d8de3e46b684641270b2d",
+  "time": {
+    "start": 1696409091060,
+    "stop": 1696409091335,
+    "duration": 275
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "tag",
+      "value": "初学pytest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "case"
+    },
+    {
+      "name": "suite",
+      "value": "test_baidu_request"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStudy"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-RFDQ2TPM"
+    },
+    {
+      "name": "thread",
+      "value": "21496-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "case.test_baidu_request"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "params",
+      "value": "{'method': 'post', 'url': 'https://dict.youdao.com/keyword/key', 'params': {'title': 'foo', 'body': 'bar', 'userId': 12}}"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": [
+      "初学pytest"
+    ]
+  },
+  "source": "9d3e5e83cf876253.json",
+  "parameterValues": [
+    "{'method': 'post', 'url': 'https://dict.youdao.com/keyword/key', 'params': {'title': 'foo', 'body': 'bar', 'userId': 12}}"
+  ]
+}

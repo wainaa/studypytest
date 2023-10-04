@@ -1,0 +1,13 @@
+{
+  "uuid": "9c77c9ec-78ea-49fe-a477-ced5b97dcea3",
+  "befores": [
+    {
+      "name": "user",
+      "status": "passed",
+      "start": 1696409091338,
+      "stop": 1696409091338
+    }
+  ],
+  "start": 1696409091338,
+  "stop": 1696409091339
+}

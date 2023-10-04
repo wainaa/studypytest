@@ -1,0 +1,54 @@
+{
+  "name": "test_baidu_003[user0]",
+  "status": "passed",
+  "parameters": [
+    {
+      "name": "user",
+      "value": "{'username': 'wkd', 'password': 20011005, 'expect': True}"
+    }
+  ],
+  "start": 1696409091339,
+  "stop": 1696409091339,
+  "uuid": "dcda7167-71d8-4576-b940-e33de4b701d3",
+  "historyId": "46971ab645bea6d22bdbdae6ea758700",
+  "testCaseId": "7d59ed4462f0069df0e96e274b67d207",
+  "fullName": "case.test_baidu_request.TestStudy#test_baidu_003",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "初学pytest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "case"
+    },
+    {
+      "name": "suite",
+      "value": "test_baidu_request"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStudy"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-RFDQ2TPM"
+    },
+    {
+      "name": "thread",
+      "value": "21496-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "case.test_baidu_request"
+    }
+  ]
+}

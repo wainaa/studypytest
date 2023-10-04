@@ -1,0 +1,144 @@
+{
+  "uid": "b1a8273437954620fa374b796ffaacdd",
+  "name": "behaviors",
+  "children": [
+    {
+      "name": "test_baidu_001[params0]",
+      "uid": "be19bfda02a2d06f",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1696409090708,
+        "stop": 1696409091057,
+        "duration": 349
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 0,
+      "retriesStatusChange": false,
+      "parameters": [
+        "{'method': 'get', 'url': 'https://www.baidu.com'}"
+      ],
+      "tags": [
+        "初学pytest"
+      ]
+    },
+    {
+      "name": "test_baidu_002[params0]",
+      "uid": "9d3e5e83cf876253",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1696409091060,
+        "stop": 1696409091335,
+        "duration": 275
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 0,
+      "retriesStatusChange": false,
+      "parameters": [
+        "{'method': 'post', 'url': 'https://dict.youdao.com/keyword/key', 'params': {'title': 'foo', 'body': 'bar', 'userId': 12}}"
+      ],
+      "tags": [
+        "初学pytest"
+      ]
+    },
+    {
+      "name": "test_baidu_003[user0]",
+      "uid": "6c44a027d82076d7",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1696409091339,
+        "stop": 1696409091339,
+        "duration": 0
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 0,
+      "retriesStatusChange": false,
+      "parameters": [
+        "{'username': 'wkd', 'password': 20011005, 'expect': True}"
+      ],
+      "tags": [
+        "初学pytest"
+      ]
+    },
+    {
+      "name": "test_baidu_003[user1]",
+      "uid": "e54d1c3c59bd410c",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1696409091343,
+        "stop": 1696409091343,
+        "duration": 0
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 0,
+      "retriesStatusChange": false,
+      "parameters": [
+        "{'username': 'hcy', 'password': 20011005, 'expect': False}"
+      ],
+      "tags": [
+        "初学pytest"
+      ]
+    },
+    {
+      "name": "test_baidu_004[user0]",
+      "uid": "9094e41a6bf7e90e",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1696409091346,
+        "stop": 1696409091347,
+        "duration": 1
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 0,
+      "retriesStatusChange": false,
+      "parameters": [
+        "[1, 2, 3, 4]"
+      ],
+      "tags": [
+        "初学pytest"
+      ]
+    },
+    {
+      "name": "test_mobile[params0]",
+      "uid": "918de601bb0c9492",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1696409091350,
+        "stop": 1696409091633,
+        "duration": 283
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 0,
+      "retriesStatusChange": false,
+      "parameters": [
+        "{'method': 'get', 'url': 'http://sellshop.5istudy.online/sell//shouji/query', 'params': {'shouji': 15257898768, 'appkey': 1111}}"
+      ],
+      "tags": [
+        "初学pytest"
+      ]
+    }
+  ]
+}

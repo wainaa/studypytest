@@ -1,0 +1,83 @@
+{
+  "uid": "918de601bb0c9492",
+  "name": "test_mobile[params0]",
+  "fullName": "case.test_baidu_request.TestStudy#test_mobile",
+  "historyId": "d3dea6328b5d1002e7af240d14d374b3",
+  "time": {
+    "start": 1696409091350,
+    "stop": 1696409091633,
+    "duration": 283
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "tag",
+      "value": "初学pytest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "case"
+    },
+    {
+      "name": "suite",
+      "value": "test_baidu_request"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestStudy"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-RFDQ2TPM"
+    },
+    {
+      "name": "thread",
+      "value": "21496-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "case.test_baidu_request"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "params",
+      "value": "{'method': 'get', 'url': 'http://sellshop.5istudy.online/sell//shouji/query', 'params': {'shouji': 15257898768, 'appkey': 1111}}"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": [
+      "初学pytest"
+    ]
+  },
+  "source": "918de601bb0c9492.json",
+  "parameterValues": [
+    "{'method': 'get', 'url': 'http://sellshop.5istudy.online/sell//shouji/query', 'params': {'shouji': 15257898768, 'appkey': 1111}}"
+  ]
+}
